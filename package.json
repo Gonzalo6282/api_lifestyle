@@ -1,0 +1,23 @@
+{
+  "name": "api_lifestyle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gonzalo6282/api_lifestyle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gonzalo6282/api_lifestyle/issues"
+  },
+  "homepage": "https://github.com/Gonzalo6282/api_lifestyle#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
